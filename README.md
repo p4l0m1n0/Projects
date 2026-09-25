@@ -11,6 +11,8 @@ This repository showcases a collection of cybersecurity projects, reports, and d
 - **2 - Ferramenta Baseada em Bash para Detecção de Intrusão em Servidores e Endurecimento do Sistema.pdf** - Portuguese version of the bash security tool documentation
 - **3 - Update a file through a Python algorithm.pdf** - Python-based file manipulation and security operations
 - **4 - Converted the Bash script into Python script and published in Github.pdf** - Documentation showing conversion of bash scripts to Python
+- **5 - Lynis Auditoria de systema - Servidor Linux.pdf** - Lynis audit report for Linux server security (Portuguese version)
+- **5 - Lynis System Audit - Linux Server.pdf** - Lynis audit report for Linux server security (English version)
 
 ### 🎓 Academic Projects
 - **MIT Capstone - MGM_Okta Breaches/** - Capstone project analyzing the MGM and Okta security breaches
